@@ -1,5 +1,22 @@
 # 🛡️ AI-Driven Synthetic Media Detection & Authentication Engine
-### *4th-Year Major / Capstone AI/ML & Digital Forensics Project*
+### *Industrial Training Project (ITR) | Department of Computer Science & Engineering, SKIT Jaipur*
+
+[![Live App](https://img.shields.io/badge/Streamlit%20Cloud-Live%20Demo-brightgreen.svg?style=flat&logo=streamlit)](https://synthetic-media-detection.streamlit.app)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2Bcu124-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![CUDA](https://img.shields.io/badge/CUDA-NVIDIA%20RTX%204050-76B900.svg?style=flat&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
+
+---
+
+### 🌐 Live Web Application
+🔗 **Direct Live Link:** [https://synthetic-media-detection.streamlit.app](https://synthetic-media-detection.streamlit.app)
+
+### 🎓 Academic & Industrial Training Details
+- **Institution:** Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT), Jaipur
+- **Department:** Department of Computer Science & Engineering
+- **Candidate:** **Kunal Arya** (Roll No: 23ESKCS126) | 7th Semester, 4th Year B.Tech CSE
+- **Supervisor:** **Dr. Mehul Mahrishi** | HOD & Professor, Department of CSE, SKIT Jaipur
+- **Presentation Deck:** [\Synthetic_Media_Detection_ITR_FINAL.pptx\](Synthetic_Media_Detection_ITR_FINAL.pptx)
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB.svg?style=flat&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0%2Bcu124-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
