@@ -1,0 +1,23 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Large Training Datasets (Local only)
+dataset/
+dataset_published/
+raw_datasets/
+
+# Checkpoints (Only best_synthetic_detector.pth is needed for inference)
+models/latest_checkpoint.pth
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# User temp & PPT lock files
+~$*.pptx
+reports/*.pdf
